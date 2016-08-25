@@ -1,0 +1,2 @@
+module SimpleCrudController
+end
